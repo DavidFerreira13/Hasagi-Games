@@ -1,3 +1,12 @@
-.Toolbar{
-    
+.toolbar {
+    height: 64px;
+    background-color: red;
+    width: 100%;
+    color: blue;
+    display: flex;
+    text-align: center;
+}
+
+.menu{
+    color: blue;
 }
