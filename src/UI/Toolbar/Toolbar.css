@@ -1,12 +1,14 @@
-.toolbar {
-    height: 64px;
-    background-color: red;
+.Toolbar {
+    height: 60px;
+    background: linear-gradient( rgba(74, 99, 222, 1), rgba(129, 145, 222, 0.8));
     width: 100%;
     color: blue;
     display: flex;
     text-align: center;
+    margin-bottom: 10px;
 }
 
-.menu{
-    color: blue;
+.Menu{
+    color: white;
+    font-weight: bold;
 }

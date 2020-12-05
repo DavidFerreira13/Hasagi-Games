@@ -1,8 +1,10 @@
 import React from 'react';
-import classes from './Toolbar.css';
+import './Toolbar.css';
 
 const toolbar = (props) => (
-    <div className={classes.toolbar} >{props.children}</div>
+    <div className='Toolbar' >
+        <div className="Menu" >menu icons e outras cenas</div>
+    </div>
 )
 
 export default toolbar;
